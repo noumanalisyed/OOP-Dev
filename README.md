@@ -100,4 +100,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 If you have any questions or suggestions, feel free to contact me:
 
 - **Email**: nouman.ali.syed@gmail.com
-- **GitHub**: [yourusername]([(https://github.com/noumanalisyed)](https://github.com/noumanalisyed)
+- **GitHub**: ([(https://github.com/noumanalisyed)](https://github.com/noumanalisyed)
